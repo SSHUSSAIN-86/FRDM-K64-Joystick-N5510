@@ -2,6 +2,8 @@
 .mbed
 .github
 .circleci
+.travis.yml
+mbed-os.lib
 projectfiles
 mbed-os
 *.py*
