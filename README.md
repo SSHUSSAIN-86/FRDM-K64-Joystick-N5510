@@ -1,4 +1,4 @@
-##This project demostrates interfacing and functionality of FRDM-K64F with Nokia N5510 and Joystick
+## This project demostrates interfacing and functionality of FRDM-K64F with Nokia N5510 and Joystick
 ## Mbed OS build tools
 
 ### Mbed CLI 2
