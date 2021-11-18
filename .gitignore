@@ -1,0 +1,8 @@
+.build
+.mbed
+.github
+.circleci
+projectfiles
+mbed-os
+*.py*
+BUILD
