@@ -8,8 +8,7 @@ Starting with version 6.5, Mbed OS uses Mbed CLI 2. It uses Ninja as a build sys
 
 ### Mbed CLI 1
 1. [Install Mbed CLI 1](https://os.mbed.com/docs/mbed-os/latest/quick-start/offline-with-mbed-cli.html).
-2. From the command-line, import the example: `mbed import mbed-os-example-blinky`
-3. Change the current directory to where the project was imported.
+2. Change the current directory to where the project was imported.
 
 ## Application functionality
 
